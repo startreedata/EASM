@@ -1,0 +1,74 @@
+           _   _       _
+          | \ | |     (_)
+  _ __ ___|  \| | __ _ _ _ __   ___
+ | '__/ _ \ . ` |/ _` | | '_ \ / _ \
+ | | |  __/ |\  | (_| | | | | |  __/
+ |_|  \___|_| \_|\__, |_|_| |_|\___| v2.0.4-jasper
+                  __/ |
+                 |___/
+
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, dashboard, django_celery_beat, recon_note, scanEngine, sessions, startScan, targetApp
+Running migrations:
+  No migrations to apply.
+           _   _       _
+          | \ | |     (_)
+  _ __ ___|  \| | __ _ _ _ __   ___
+ | '__/ _ \ . ` |/ _` | | '_ \ / _ \
+ | | |  __/ |\  | (_| | | | | |  __/
+ |_|  \___|_| \_|\__, |_|_| |_|\___| v2.0.4-jasper
+                  __/ |
+                 |___/
+
+           _   _       _
+          | \ | |     (_)
+  _ __ ___|  \| | __ _ _ _ __   ___
+ | '__/ _ \ . ` |/ _` | | '_ \ / _ \
+ | | |  __/ |\  | (_| | | | | |  __/
+ |_|  \___|_| \_|\__, |_|_| |_|\___| v2.0.4-jasper
+                  __/ |
+                 |___/
+
+Performing system checks...
+
+May 28, 2024 - 09:18:29
+Django version 3.2.4, using settings 'reNgine.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+           _   _       _
+          | \ | |     (_)
+  _ __ ___|  \| | __ _ _ _ __   ___
+ | '__/ _ \ . ` |/ _` | | '_ \ / _ \
+ | | |  __/ |\  | (_| | | | | |  __/
+ |_|  \___|_| \_|\__, |_|_| |_|\___| v2.0.4-jasper
+                  __/ |
+                 |___/
+
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, dashboard, django_celery_beat, recon_note, scanEngine, sessions, startScan, targetApp
+Running migrations:
+  No migrations to apply.
+           _   _       _
+          | \ | |     (_)
+  _ __ ___|  \| | __ _ _ _ __   ___
+ | '__/ _ \ . ` |/ _` | | '_ \ / _ \
+ | | |  __/ |\  | (_| | | | | |  __/
+ |_|  \___|_| \_|\__, |_|_| |_|\___| v2.0.4-jasper
+                  __/ |
+                 |___/
+
+           _   _       _
+          | \ | |     (_)
+  _ __ ___|  \| | __ _ _ _ __   ___
+ | '__/ _ \ . ` |/ _` | | '_ \ / _ \
+ | | |  __/ |\  | (_| | | | | |  __/
+ |_|  \___|_| \_|\__, |_|_| |_|\___| v2.0.4-jasper
+                  __/ |
+                 |___/
+
+Performing system checks...
+
+May 28, 2024 - 09:23:37
+Django version 3.2.4, using settings 'reNgine.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
